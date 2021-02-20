@@ -387,7 +387,7 @@ $Label21.location                = New-Object System.Drawing.Point(390,507)
 $Label21.Font                    = New-Object System.Drawing.Font('Microsoft Sans Serif',10)
 
 $Label22                         = New-Object system.Windows.Forms.Label
-$Label22.text                    = "(கடினமாக உள்ளதா? Essential Tweaks  தேர்வு செய்யவும்)"
+$Label22.text                    = "(Unsure? Run Essential Tweaks)"
 $Label22.AutoSize                = $true
 $Label22.width                   = 150
 $Label22.height                  = 10
