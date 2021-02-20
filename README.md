@@ -23,5 +23,8 @@
 
 
 
-Forked With Thanks From: Chris Titus Tech
+Forked With Thanks To:
+
+Chris Titus Tech
+
 https://github.com/ChrisTitusTech/win10script
