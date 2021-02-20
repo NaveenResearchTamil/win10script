@@ -1,7 +1,9 @@
-# win10script
-This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
+முகப்பு:
+இந்த மென்பொருள் பாதிப்பானது விண்டோஸ் 10 மென்பொருள் ஸ்கிரிப்ட் என்பதாகும்.
+இது பல்வேறு இலவச மென்பொருட்களின் ஒன்றுசேர்க்கப்பட்ட தொகுப்பு ஆகும். 
+இவை யாவும் நாங்கள் சேவை கொடுக்கும் ஒவ்வொரு கணினியிலும் பயன்படுத்தும் மென்பொருள் ஆகும்.
 
-## My Additions
+அம்சங்கள்:
 
 - Dark Mode
 - One Command to launch and run
@@ -11,4 +13,5 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 - Added Debloat Microsoft Store Apps
 - Full GUI Implementation
 
-For complete details check out https://christitus.com/debloat-windows-10-2020/
+எனது உள்ளீடு:
+தமிழ் விளக்கம் மற்றும் மொழி பெயர்ப்பு.
