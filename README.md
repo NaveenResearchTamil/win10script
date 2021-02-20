@@ -19,3 +19,9 @@
 எனது உள்ளீடு:
 
 தமிழ் விளக்கம் மற்றும் மொழி பெயர்ப்பு.
+
+
+
+
+Forked With Thanks From: Chris Titus Tech
+https://github.com/ChrisTitusTech/win10script
