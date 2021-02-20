@@ -395,7 +395,7 @@ $Label22.location                = New-Object System.Drawing.Point(4,14)
 $Label22.Font                    = New-Object System.Drawing.Font('Microsoft Sans Serif',10)
 
 $Label23                         = New-Object system.Windows.Forms.Label
-$Label23.text                    = "- Need to Restore action center, cortana, etc.? Run the Restore Script: https://youtu.be/H2ydDcqRZyM"
+$Label23.text                    = "- Need to Restore action center, cortana, etc.? Run the Restore Script: Video_Coming_Soon"
 $Label23.AutoSize                = $true
 $Label23.width                   = 150
 $Label23.height                  = 10
@@ -406,7 +406,7 @@ $PictureBox1                     = New-Object system.Windows.Forms.PictureBox
 $PictureBox1.width               = 412
 $PictureBox1.height              = 125
 $PictureBox1.location            = New-Object System.Drawing.Point(449,541)
-$PictureBox1.imageLocation       = "https://github.com/ChrisTitusTech/win10script/blob/master/titus-toolbox.png?raw=true"
+$PictureBox1.imageLocation       = "https://github.com/NaveenResearchTamil/win10script/blob/master/nrt-toolbox.png?raw=true"
 $PictureBox1.SizeMode            = [System.Windows.Forms.PictureBoxSizeMode]::zoom
 $lightmode                       = New-Object system.Windows.Forms.Button
 $lightmode.text                  = "Light Mode"
