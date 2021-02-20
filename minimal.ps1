@@ -21,6 +21,9 @@
 #	- Added Confirm Menu for Adobe and Brave Browser
 #	- Changed Default Apps to Notepad++, Brave, Irfanview, and more using XML Import feature
 #
+#       Naveen Research Tamil Additions : 
+#       - Translated & Explained in Tamil by NaveenResearchTamil
+#
 ##########
 # Default preset
 $tweaks = @(
