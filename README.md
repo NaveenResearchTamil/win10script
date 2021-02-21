@@ -21,7 +21,6 @@
 தமிழ் விளக்கம் மற்றும் மொழி பெயர்ப்பு.
 
 #
-#
 How To:
 
 YouTube: https://youtube.com/naveenresearchtamil
