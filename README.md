@@ -1,6 +1,6 @@
 முகப்பு:
 
-இந்த மென்பொருள் பாதிப்பானது விண்டோஸ் 10 மென்பொருள் ஸ்கிரிப்ட் என்பதாகும்.
+இந்த மென்பொருள் பாதிப்பானது விண்டோஸ் 10 மென்பொருள் தேவையற்ற செயலிகள் நீக்கும் செயலி என்பதாகும்.
 
 இது பல்வேறு இலவச மென்பொருட்களின் ஒன்றுசேர்க்கப்பட்ட தொகுப்பு ஆகும். 
 
@@ -22,9 +22,7 @@
 
 #
 #
-#
-Forked With Thanks To Creators & Contributors:
+How To:
 
-Chris Titus Tech
+YouTube: https://youtube.com/naveenresearchtamil
 
-https://github.com/ChrisTitusTech/win10script
