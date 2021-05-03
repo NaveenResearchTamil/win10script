@@ -1,6 +1,6 @@
 முகப்பு:
 
-இந்த மென்பொருள் பாதிப்பானது விண்டோஸ் 10 மென்பொருள் தேவையற்ற செயலிகள் நீக்கும் செயலி என்பதாகும்.
+இந்த மென்பொருள் பதிப்பானது "விண்டோஸ் 10 இயங்குதளத்தில் தேவையற்ற உள்ளீட்டை நீக்கும் செயலி" என்பதாகும்.
 
 இது பல்வேறு இலவச மென்பொருட்களின் ஒன்றுசேர்க்கப்பட்ட தொகுப்பு ஆகும். 
 
@@ -25,3 +25,5 @@ How To:
 
 YouTube: https://youtube.com/naveenresearchtamil
 
+#
+This project is a fork, Translated with How-To guide | All credits goes to respective opensource script contributors.
