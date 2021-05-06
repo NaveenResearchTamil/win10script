@@ -395,7 +395,7 @@ $Label22.location                = New-Object System.Drawing.Point(4,14)
 $Label22.Font                    = New-Object System.Drawing.Font('Microsoft Sans Serif',10)
 
 $Label23                         = New-Object system.Windows.Forms.Label
-$Label23.text                    = "- Need to Restore action center, cortana, etc.? Run the Restore Script: https://youtu.be/H2ydDcqRZyM"
+$Label23.text                    = "- Need to Restore action center, cortana, etc.? Open Restore Folder, Run the script, Video Link Given below"
 $Label23.AutoSize                = $true
 $Label23.width                   = 150
 $Label23.height                  = 10
