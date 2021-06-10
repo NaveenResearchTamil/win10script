@@ -34,7 +34,7 @@
 முக்கிய குறிப்பு:
 இதை இயக்கம் முன்னர் உங்கள் கணினியை நகல் எடுத்திருப்பது அவசியம். [Running a backup before running the script is highly recommended to revert back if needed]
 இது தொடர்பான தொழில்நுட்ப உதவி தேவைபட்டால், மென்பொருளை இயக்கம் பொறியாளர் எவரையேனும் அணுகவும்.
-Provided "AS-IS" without any guarantee or warranty. 
+
 
 ----------------
 
@@ -42,10 +42,9 @@ Provided "AS-IS" without any guarantee or warranty.
 
 தமிழ் விளக்கம் மற்றும் மொழி பெயர்ப்பு.
 
-----------------
 How To:
 YouTube: https://youtu.be/ukwRA1mtZsU
 
 ----------------
 This project is a fork, Translated with How-To guide | All credits goes to respective opensource script contributors.
-See Fork Info for details.
+See Fork Info for details. Provided "AS-IS" without any guarantee or warranty. 
